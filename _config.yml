@@ -10,11 +10,10 @@ title: KF5010
 subtitle: Operating systems and concurrency
 authors: Michael Brockway, David Kendall, Alun Moon
 copyyear: 2015-2017
-#url: http://hesabu.net/kf5010
-raurl: assets/ra
-rraurl: assets/ra
-#url: http://localhost:4000
-#raurl: http://localhost:4000/assets/ra
+url: https://davidkendall.github.io
+baseurl: /kf5010
+raurl: /assets/ra
+rraurl: /assets/ra
 
 lab_links:
   - title: Lab 1
